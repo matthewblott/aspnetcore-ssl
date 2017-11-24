@@ -1,0 +1,7 @@
+{
+  "urls": "https://localhost:5000",
+  "certificateSettings": {
+    "filename": "localhost.pfx",
+    "password": "zo3Zh0eQtS2hBzB"
+  }
+}
